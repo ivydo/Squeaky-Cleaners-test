@@ -9,15 +9,15 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
-    "dotenv": "^14.2.0",
+    "dotenv": "^14.3.2",
     "ember-truth-helpers": "^3.0.0",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "express-handlebars": "^6.0.2",
     "express-session": "^1.17.2",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.15",
-    "sequelize": "^6.13.0"
+    "sequelize": "^6.16.2"
   },
   "name": "squeaky-cleaners",
   "description": "<h1 align=\"center\">Squeaky Cleaners</h1>",
